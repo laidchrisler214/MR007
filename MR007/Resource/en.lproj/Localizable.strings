@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  MR007
+
+  Created by Roger Molas on 08/02/2017.
+  Copyright © 2017 Greafeat Services Inc. All rights reserved.
+*/
+
+/** Account Tab*/
+// Page
+"Balance" = "Balance";
+"Deposit" = "Deposit";
+"Withdraw" = "Withdraw";
+"Records" = "Records";

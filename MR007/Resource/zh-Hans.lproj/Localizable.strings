@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  MR007
+
+  Created by Roger Molas on 08/02/2017.
+  Copyright © 2017 Greafeat Services Inc. All rights reserved.
+*/
+
+/** Account Tab*/
+// Page
+"Balance" = "全部";
+"Deposit" = "老虎机";
+"Withdraw" = "娱乐场";
+"Records" = "体育";
